@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.4.5"
+  version: "0.4.6"
   python_min: "3.11"
 
 package:
@@ -11,7 +11,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/q/quax/quax-${{ version }}.tar.gz
-  sha256: 6d075b52ce7e44785c7bac06c28f3608d05a52f1baf7b131b06af5a3848275f4
+  sha256: 994f0a8ae909c33c729adca07921b78314b5fd9d71aa9b4f135e9e409a192bae
 
 build:
   number: 0
